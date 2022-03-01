@@ -21,7 +21,7 @@ Then install the following dependencies (using Pkg.add(...) in the Julia prompt)
 
 ## Implemented algorithms
 * NEPA  
->unpublished yet
+>Maxime Elkael and Massinissa Ait Aba and Andrea Araldo and Hind Castel and Badii Jouaber, "Monkey Business: Reinforcement learning meets neighborhood search for Virtual Network Embedding", 2022,  https://arxiv.org/abs/2202.13706, in review.
 ```
 julia nepa.jl <scenario folder> <log file> <level> <N> <use distance heuristic(true/false)> <level refine> <number of refinements> <random seed>
 ```
