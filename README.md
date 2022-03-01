@@ -1,6 +1,8 @@
 # vne.jl
 
-This is a collection of algorithms for the Virtual Network Embedding problem
+This is a collection of algorithms for the Virtual Network Embedding problem.
+Please cite the our following paper if you use this repo:
+>Maxime Elkael and Massinissa Ait Aba and Andrea Araldo and Hind Castel and Badii Jouaber, "Monkey Business: Reinforcement learning meets neighborhood search for Virtual Network Embedding", 2022,  https://arxiv.org/abs/2202.13706, in review.
 
 Model:
 * A virtual node must be placed on one physical node
